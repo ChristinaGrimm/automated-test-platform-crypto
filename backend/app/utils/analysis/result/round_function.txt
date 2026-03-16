@@ -1,0 +1,32 @@
+def RoundFunctionConstraint(self, r):
+    input1_bits = self.input1_At_Round(r)
+    input2_bits = self.input2_At_Round(r)
+    output1_bits = self.output1_At_Round(r)
+    output2_bits = self.output2_At_Round(r)
+    Sin_bits = self.S_in_At_Round(r)
+    Sout_bits = self.S_out_At_Round(r)
+    PermutationIn_bits = self.permutationIn_At_Round(r)
+    PermutationOut_bits = self.permutationOut_At_Round(r)
+    XORin1_bits = self.XOR_input1_At_Round(r)
+    XORin2_bits = self.XOR_input2_At_Round(r)
+    XORout_bits = self.XOR_output_At_Round(r)
+    Split1In1_bits = self.Split1_input1_At_Round(r)
+    Split1In2_bits = self.Split1_input2_At_Round(r)
+    Split1Out_bits = self.Split1_output_At_Round(r)
+    constraint = []
+    constraint += self.equal(input1_bits, XORin1_bits)
+    constraint += self.equal(PermutationOut_bits, XORin2_bits)
+    constraint += self.equal(Split1In2_bits, Sin_bits)
+    constraint += self.equal(Sout_bits, PermutationIn_bits)
+    constraint += self.equal(XORout_bits, output1_bits)
+    constraint += self.equal(Split1Out_bits, output2_bits)
+    constraint += self.equal(input2_bits, Split1In1_bits)
+    constraint += self.equal(output1_bits, self.input2_At_Round(r + 1))
+    constraint += self.equal(output2_bits, self.input1_At_Round(r + 1))
+    constraint += self.Split(Split1In1_bits, Split1In2_bits, Split1Out_bits)
+    constraint += self.Function_Sbox(Sin_bits, Sout_bits)
+    constraint += self.Permutation(PermutationIn_bits, PermutationOut_bits)
+    constraint += self.BVXOR(XORin1_bits, XORin2_bits, XORout_bits)
+    constraint += ['\n']
+
+    return constraint

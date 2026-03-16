@@ -1,0 +1,1774 @@
+2025-09-09 19:38:26,672 - uvicorn.error - INFO - Started server process [6111]
+2025-09-09 19:38:26,672 - uvicorn.error - INFO - Waiting for application startup.
+2025-09-09 19:38:26,672 - app.main - INFO - 应用程序启动
+2025-09-09 19:38:26,672 - uvicorn.error - INFO - Application startup complete.
+2025-09-09 19:39:03,651 - uvicorn.error - INFO - Started server process [6279]
+2025-09-09 19:39:03,651 - uvicorn.error - INFO - Waiting for application startup.
+2025-09-09 19:39:03,651 - app.main - INFO - 应用程序启动
+2025-09-09 19:39:03,651 - uvicorn.error - INFO - Application startup complete.
+2025-09-09 19:57:27,429 - uvicorn.error - INFO - Started server process [1103]
+2025-09-09 19:57:27,434 - uvicorn.error - INFO - Waiting for application startup.
+2025-09-09 19:57:27,434 - app.main - INFO - 应用程序启动
+2025-09-09 19:57:27,434 - uvicorn.error - INFO - Application startup complete.
+2025-09-09 20:01:47,325 - uvicorn.error - INFO - Shutting down
+2025-09-09 20:01:47,426 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-09-09 20:01:47,426 - app.main - INFO - 应用程序关闭
+2025-09-09 20:01:47,426 - uvicorn.error - INFO - Application shutdown complete.
+2025-09-09 20:01:47,426 - uvicorn.error - INFO - Finished server process [1103]
+2025-09-09 20:01:47,878 - uvicorn.error - INFO - Started server process [1741]
+2025-09-09 20:01:47,878 - uvicorn.error - INFO - Waiting for application startup.
+2025-09-09 20:01:47,878 - app.main - INFO - 应用程序启动
+2025-09-09 20:01:47,878 - uvicorn.error - INFO - Application startup complete.
+2025-09-09 20:03:48,010 - uvicorn.error - INFO - Shutting down
+2025-09-09 20:03:48,111 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-09-09 20:03:48,111 - app.main - INFO - 应用程序关闭
+2025-09-09 20:03:48,111 - uvicorn.error - INFO - Application shutdown complete.
+2025-09-09 20:03:48,112 - uvicorn.error - INFO - Finished server process [1741]
+2025-09-09 20:04:23,761 - uvicorn.error - INFO - Started server process [2402]
+2025-09-09 20:04:23,761 - uvicorn.error - INFO - Waiting for application startup.
+2025-09-09 20:04:23,761 - app.main - INFO - 应用程序启动
+2025-09-09 20:04:23,761 - uvicorn.error - INFO - Application startup complete.
+2025-09-09 20:04:36,465 - uvicorn.error - INFO - Shutting down
+2025-09-09 20:04:36,566 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-09-09 20:04:36,566 - app.main - INFO - 应用程序关闭
+2025-09-09 20:04:36,566 - uvicorn.error - INFO - Application shutdown complete.
+2025-09-09 20:04:36,566 - uvicorn.error - INFO - Finished server process [2402]
+2025-09-10 11:32:36,155 - app.main - INFO - 应用程序启动
+2025-09-11 10:10:26,749 - app.main - INFO - 应用程序启动
+2025-09-11 10:12:49,117 - app.main - INFO - 应用程序关闭
+2025-09-11 10:12:49,513 - app.main - INFO - 应用程序启动
+2025-09-11 10:33:19,788 - app.main - INFO - 应用程序启动
+2025-09-11 10:36:47,084 - app.main - INFO - 应用程序关闭
+2025-09-11 10:36:47,487 - app.main - INFO - 应用程序启动
+2025-09-11 10:45:51,119 - app.main - INFO - 应用程序关闭
+2025-09-11 10:45:51,503 - app.main - INFO - 应用程序启动
+2025-09-11 11:14:18,721 - app.main - INFO - 应用程序启动
+2025-09-11 11:18:19,723 - app.main - INFO - 应用程序关闭
+2025-09-11 11:18:20,127 - app.main - INFO - 应用程序启动
+2025-09-11 11:32:36,928 - app.main - INFO - 应用程序关闭
+2025-09-11 11:32:37,325 - app.main - INFO - 应用程序启动
+2025-09-11 11:40:02,969 - app.main - INFO - 应用程序关闭
+2025-09-11 11:45:29,487 - app.main - INFO - 应用程序启动
+2025-09-11 14:31:14,917 - app.main - INFO - 应用程序启动
+2025-09-11 14:37:18,060 - app.main - INFO - 应用程序启动
+2025-09-11 14:53:29,905 - app.main - INFO - 应用程序关闭
+2025-09-11 14:53:30,345 - app.main - INFO - 应用程序启动
+2025-09-11 14:55:34,326 - app.main - INFO - 应用程序关闭
+2025-09-11 14:55:34,719 - app.main - INFO - 应用程序启动
+2025-09-11 14:55:37,241 - app.main - INFO - 应用程序关闭
+2025-09-11 14:55:37,634 - app.main - INFO - 应用程序启动
+2025-09-11 14:55:41,469 - app.main - INFO - 应用程序关闭
+2025-09-11 14:55:41,861 - app.main - INFO - 应用程序启动
+2025-09-11 14:59:14,165 - app.main - INFO - 应用程序关闭
+2025-09-11 14:59:14,567 - app.main - INFO - 应用程序启动
+2025-09-11 14:59:44,122 - app.main - INFO - 应用程序关闭
+2025-09-11 14:59:44,516 - app.main - INFO - 应用程序启动
+2025-09-11 15:01:18,680 - app.main - INFO - 应用程序启动
+2025-09-11 15:05:34,899 - app.main - INFO - 应用程序关闭
+2025-09-11 15:05:34,942 - app.main - INFO - 应用程序关闭
+2025-09-11 15:05:35,302 - app.main - INFO - 应用程序启动
+2025-09-11 15:05:35,332 - app.main - INFO - 应用程序启动
+2025-09-11 15:05:47,000 - app.main - INFO - 应用程序关闭
+2025-09-11 15:05:47,030 - app.main - INFO - 应用程序关闭
+2025-09-11 15:05:47,390 - app.main - INFO - 应用程序启动
+2025-09-11 15:05:47,422 - app.main - INFO - 应用程序启动
+2025-09-11 15:06:42,092 - app.main - INFO - 应用程序启动
+2025-09-11 15:09:19,443 - app.main - INFO - 应用程序关闭
+2025-09-11 15:09:19,862 - app.main - INFO - 应用程序启动
+2025-09-11 15:12:29,574 - app.main - INFO - 应用程序关闭
+2025-09-11 15:12:29,981 - app.main - INFO - 应用程序启动
+2025-09-11 15:22:42,048 - app.main - INFO - 应用程序关闭
+2025-09-11 15:22:42,584 - app.main - INFO - 应用程序启动
+2025-09-11 15:26:33,358 - app.main - INFO - 应用程序关闭
+2025-09-11 15:26:33,753 - app.main - INFO - 应用程序启动
+2025-09-11 15:26:48,762 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=20, xor_count=4, quantity=1
+2025-09-11 15:27:54,719 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:27:54,720 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=20, xor_count=4, quantity=1
+2025-09-11 15:29:00,125 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:29:00,126 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=20, xor_count=4, quantity=1
+2025-09-11 15:30:06,525 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:41:50,475 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=20, xor_count=4, quantity=1
+2025-09-11 15:43:01,498 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:43:01,500 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=20, xor_count=4, quantity=1
+2025-09-11 15:44:10,945 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:44:10,946 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=20, xor_count=4, quantity=1
+2025-09-11 15:45:21,690 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:45:21,692 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=20, xor_count=4, quantity=1
+2025-09-11 15:46:31,257 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:46:31,259 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=100, xor_count=4, quantity=1
+2025-09-11 15:47:41,552 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:49:11,634 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=1, xor_count=2, quantity=10
+2025-09-11 15:49:11,683 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:51:39,282 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=20, xor_count=4, quantity=1
+2025-09-11 15:52:50,547 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:53:59,833 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=1, xor_count=2, quantity=1
+2025-09-11 15:53:59,875 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:56:57,989 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=20, xor_count=20, quantity=1
+2025-09-11 15:56:58,031 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 15:58:45,388 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=64, bit_size=8, dr=50, xor_count=50, quantity=1
+2025-09-11 15:59:56,260 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 16:01:49,124 - app.main - INFO - 应用程序关闭
+2025-09-11 16:01:49,613 - app.main - INFO - 应用程序启动
+2025-09-11 16:02:15,080 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=20, xor_count=20, quantity=1
+2025-09-11 16:02:15,111 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 16:02:30,673 - app.main - INFO - 应用程序关闭
+2025-09-11 16:02:31,154 - app.main - INFO - 应用程序启动
+2025-09-11 16:08:59,978 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=100, xor_count=5, quantity=1
+2025-09-11 16:09:00,019 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 16:18:16,096 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 16:18:16,112 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 16:51:28,291 - app.main - INFO - 应用程序关闭
+2025-09-11 16:51:28,751 - app.main - INFO - 应用程序启动
+2025-09-11 16:52:05,189 - app.main - INFO - 应用程序启动
+2025-09-11 17:06:02,313 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=100, xor_count=5, quantity=1
+2025-09-11 17:50:58,778 - app.main - INFO - 应用程序启动
+2025-09-11 17:54:15,548 - app.main - INFO - 应用程序关闭
+2025-09-11 17:54:15,948 - app.main - INFO - 应用程序启动
+2025-09-11 17:56:10,028 - app.main - INFO - 应用程序关闭
+2025-09-11 18:12:23,917 - app.main - INFO - 应用程序启动
+2025-09-11 18:14:30,746 - app.main - INFO - 应用程序关闭
+2025-09-11 18:14:31,132 - app.main - INFO - 应用程序启动
+2025-09-11 18:15:06,805 - app.main - INFO - 应用程序启动
+2025-09-11 18:15:43,635 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=100, xor_count=5, quantity=1
+2025-09-11 18:15:43,665 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 18:15:53,908 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:15:53,914 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:16:01,916 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:16:01,923 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:18:42,972 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=100, xor_count=5, quantity=1
+2025-09-11 18:18:42,995 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-11 18:18:49,416 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:18:49,423 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:19:02,907 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:19:02,919 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:28:39,202 - app.main - INFO - 应用程序关闭
+2025-09-11 18:28:39,203 - app.main - INFO - 应用程序关闭
+2025-09-11 18:28:39,604 - app.main - INFO - 应用程序启动
+2025-09-11 18:28:39,606 - app.main - INFO - 应用程序启动
+2025-09-11 18:28:47,480 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:28:47,486 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:30:08,656 - app.main - INFO - 应用程序关闭
+2025-09-11 18:30:08,656 - app.main - INFO - 应用程序关闭
+2025-09-11 18:30:21,548 - app.main - INFO - 应用程序启动
+2025-09-11 18:30:21,551 - app.main - INFO - 应用程序启动
+2025-09-11 18:30:26,168 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:30:26,174 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:32:51,099 - app.main - INFO - 应用程序关闭
+2025-09-11 18:32:51,482 - app.main - INFO - 应用程序启动
+2025-09-11 18:32:51,506 - app.main - INFO - 应用程序关闭
+2025-09-11 18:32:51,889 - app.main - INFO - 应用程序启动
+2025-09-11 18:35:44,355 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:35:44,361 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:37:49,665 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:37:49,671 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:38:20,151 - app.main - INFO - 应用程序启动
+2025-09-11 18:38:53,724 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:38:53,730 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:40:57,396 - app.main - INFO - 应用程序关闭
+2025-09-11 18:40:57,796 - app.main - INFO - 应用程序启动
+2025-09-11 18:41:29,866 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:41:29,873 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:49:18,110 - app.main - INFO - 应用程序关闭
+2025-09-11 18:49:18,493 - app.main - INFO - 应用程序启动
+2025-09-11 18:49:36,597 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:49:36,603 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:53:09,362 - app.main - INFO - 应用程序启动
+2025-09-11 18:53:39,241 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:53:39,246 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:58:24,020 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:58:24,027 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:59:11,599 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:59:11,605 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 18:59:23,491 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 18:59:23,499 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:03:56,705 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=1
+2025-09-11 19:03:56,712 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:06:48,449 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=2
+2025-09-11 19:06:48,465 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 2 个结果
+2025-09-11 19:09:11,877 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=5, xor_count=100, quantity=2
+2025-09-11 19:09:11,889 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 2 个结果
+2025-09-11 19:10:11,599 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:10:11,606 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:12:26,725 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:12:26,731 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:13:21,706 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:13:21,711 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:16:23,354 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:16:23,360 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:18:00,266 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:18:00,285 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:18:21,134 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:18:21,141 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:28:10,503 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:28:10,509 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:28:31,639 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:28:31,646 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:29:00,777 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:29:00,794 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-11 19:29:19,871 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-11 19:29:19,877 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 09:28:06,425 - app.main - INFO - 应用程序启动
+2025-09-12 09:28:47,219 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 09:28:47,234 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 09:31:42,641 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 09:31:42,655 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 09:32:46,918 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=2
+2025-09-12 09:32:46,934 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 2 个结果
+2025-09-12 09:33:19,253 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=2
+2025-09-12 09:33:19,282 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 2 个结果
+2025-09-12 09:33:26,589 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 09:33:26,601 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 09:45:09,219 - app.main - INFO - 应用程序启动
+2025-09-12 09:45:43,456 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 09:45:43,465 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 14:54:24,931 - app.main - INFO - 应用程序启动
+2025-09-12 15:22:24,137 - app.main - INFO - 应用程序启动
+2025-09-12 15:35:39,755 - app.main - INFO - 应用程序启动
+2025-09-12 15:36:24,208 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 15:36:24,221 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 15:41:24,137 - app.main - INFO - 应用程序关闭
+2025-09-12 15:41:24,526 - app.main - INFO - 应用程序启动
+2025-09-12 15:42:16,296 - app.main - INFO - 应用程序关闭
+2025-09-12 15:42:16,678 - app.main - INFO - 应用程序启动
+2025-09-12 15:48:43,770 - app.main - INFO - 应用程序关闭
+2025-09-12 15:50:13,478 - app.main - INFO - 应用程序启动
+2025-09-12 16:34:39,568 - app.main - INFO - 应用程序启动
+2025-09-12 16:35:15,382 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 16:35:15,391 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 16:37:36,360 - app.main - INFO - 应用程序关闭
+2025-09-12 16:39:13,123 - app.main - INFO - 应用程序启动
+2025-09-12 16:39:41,046 - app.main - INFO - 应用程序启动
+2025-09-12 17:01:47,615 - app.main - INFO - 应用程序启动
+2025-09-12 17:02:16,802 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 17:02:16,811 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 17:12:20,227 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 17:12:20,233 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 17:14:26,276 - app.main - INFO - 应用程序启动
+2025-09-12 17:15:39,853 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 17:15:39,863 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-12 18:35:19,544 - app.main - INFO - 应用程序启动
+2025-09-12 18:35:41,189 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-12 18:35:41,196 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 15:01:35,378 - app.main - INFO - 应用程序启动
+2025-09-13 15:02:12,478 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 15:02:12,493 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 15:08:11,048 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 15:08:11,062 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 15:11:21,678 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 15:11:21,689 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 16:52:14,783 - app.main - INFO - 应用程序启动
+2025-09-13 16:52:49,320 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 16:52:49,333 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 16:55:44,855 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 16:55:44,864 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 17:04:34,868 - app.main - INFO - 应用程序关闭
+2025-09-13 17:04:35,347 - app.main - INFO - 应用程序启动
+2025-09-13 17:06:11,861 - app.main - INFO - 应用程序关闭
+2025-09-13 17:06:12,265 - app.main - INFO - 应用程序启动
+2025-09-13 17:06:32,020 - app.main - INFO - 应用程序关闭
+2025-09-13 17:06:32,428 - app.main - INFO - 应用程序启动
+2025-09-13 17:06:37,157 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 17:06:37,165 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 17:13:05,246 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 17:13:05,262 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 17:16:32,590 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 17:16:32,606 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 17:23:49,537 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 17:23:49,545 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 17:27:22,243 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 17:27:22,257 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 17:40:13,531 - app.main - INFO - 应用程序启动
+2025-09-13 17:40:43,287 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 17:40:43,293 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 17:47:38,998 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 17:47:39,007 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 17:50:00,476 - app.main - INFO - 应用程序关闭
+2025-09-13 17:50:00,848 - app.main - INFO - 应用程序启动
+2025-09-13 17:53:46,153 - app.main - INFO - 应用程序关闭
+2025-09-13 17:54:38,725 - app.main - INFO - 应用程序启动
+2025-09-13 17:55:11,105 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 17:55:11,112 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:00:22,732 - app.main - INFO - 应用程序关闭
+2025-09-13 18:00:23,150 - app.main - INFO - 应用程序启动
+2025-09-13 18:00:27,283 - app.main - INFO - 应用程序关闭
+2025-09-13 18:00:27,668 - app.main - INFO - 应用程序启动
+2025-09-13 18:00:52,785 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:00:52,791 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:10:09,083 - app.main - INFO - 应用程序关闭
+2025-09-13 18:10:09,474 - app.main - INFO - 应用程序启动
+2025-09-13 18:11:11,894 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:11:11,902 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:11:58,167 - app.main - INFO - 应用程序关闭
+2025-09-13 18:11:58,558 - app.main - INFO - 应用程序启动
+2025-09-13 18:15:39,946 - app.main - INFO - 应用程序关闭
+2025-09-13 18:15:40,421 - app.main - INFO - 应用程序启动
+2025-09-13 18:15:57,150 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:15:57,158 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:16:40,912 - app.main - INFO - 应用程序关闭
+2025-09-13 18:16:41,309 - app.main - INFO - 应用程序启动
+2025-09-13 18:18:02,372 - app.main - INFO - 应用程序关闭
+2025-09-13 18:18:02,746 - app.main - INFO - 应用程序启动
+2025-09-13 18:18:28,273 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:18:28,281 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:19:05,965 - app.main - INFO - 应用程序关闭
+2025-09-13 18:19:06,355 - app.main - INFO - 应用程序启动
+2025-09-13 18:23:12,708 - app.main - INFO - 应用程序关闭
+2025-09-13 18:23:13,096 - app.main - INFO - 应用程序启动
+2025-09-13 18:23:45,514 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:23:45,520 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:24:23,672 - app.main - INFO - 应用程序关闭
+2025-09-13 18:24:24,055 - app.main - INFO - 应用程序启动
+2025-09-13 18:28:35,394 - app.main - INFO - 应用程序关闭
+2025-09-13 18:28:35,776 - app.main - INFO - 应用程序启动
+2025-09-13 18:29:06,521 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:29:06,528 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:34:12,320 - app.main - INFO - 应用程序关闭
+2025-09-13 18:34:12,714 - app.main - INFO - 应用程序启动
+2025-09-13 18:34:37,790 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:34:37,796 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:35:17,840 - app.main - INFO - 应用程序关闭
+2025-09-13 18:35:18,228 - app.main - INFO - 应用程序启动
+2025-09-13 18:40:27,687 - app.main - INFO - 应用程序关闭
+2025-09-13 18:40:28,173 - app.main - INFO - 应用程序启动
+2025-09-13 18:40:46,282 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:40:46,289 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:41:26,338 - app.main - INFO - 应用程序关闭
+2025-09-13 18:41:26,746 - app.main - INFO - 应用程序启动
+2025-09-13 18:44:33,832 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:44:33,841 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:45:03,180 - app.main - INFO - 应用程序关闭
+2025-09-13 18:45:03,576 - app.main - INFO - 应用程序启动
+2025-09-13 18:49:17,894 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:49:17,900 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:49:55,072 - app.main - INFO - 应用程序关闭
+2025-09-13 18:49:55,477 - app.main - INFO - 应用程序启动
+2025-09-13 18:56:16,375 - app.main - INFO - 应用程序关闭
+2025-09-13 18:56:16,788 - app.main - INFO - 应用程序启动
+2025-09-13 18:56:45,420 - app.main - INFO - 应用程序关闭
+2025-09-13 18:56:45,814 - app.main - INFO - 应用程序启动
+2025-09-13 18:58:22,192 - app.main - INFO - 应用程序关闭
+2025-09-13 18:58:22,566 - app.main - INFO - 应用程序启动
+2025-09-13 18:58:58,576 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:58:58,583 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 18:59:48,162 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 18:59:48,167 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:02:24,437 - app.main - INFO - 应用程序关闭
+2025-09-13 19:02:24,832 - app.main - INFO - 应用程序启动
+2025-09-13 19:02:34,214 - app.main - INFO - 应用程序关闭
+2025-09-13 19:02:34,610 - app.main - INFO - 应用程序启动
+2025-09-13 19:02:51,893 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:02:51,901 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:03:36,621 - app.main - INFO - 应用程序关闭
+2025-09-13 19:03:37,008 - app.main - INFO - 应用程序启动
+2025-09-13 19:05:28,288 - app.main - INFO - 应用程序关闭
+2025-09-13 19:05:28,687 - app.main - INFO - 应用程序启动
+2025-09-13 19:05:42,315 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:05:42,321 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:06:54,623 - app.main - INFO - 应用程序关闭
+2025-09-13 19:06:55,000 - app.main - INFO - 应用程序启动
+2025-09-13 19:09:10,991 - app.main - INFO - 应用程序关闭
+2025-09-13 19:09:11,363 - app.main - INFO - 应用程序启动
+2025-09-13 19:09:12,977 - app.main - INFO - 应用程序关闭
+2025-09-13 19:09:13,355 - app.main - INFO - 应用程序启动
+2025-09-13 19:09:42,935 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:09:42,941 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:10:47,975 - app.main - INFO - 应用程序关闭
+2025-09-13 19:10:48,372 - app.main - INFO - 应用程序启动
+2025-09-13 19:11:56,940 - app.main - INFO - 应用程序关闭
+2025-09-13 19:11:57,323 - app.main - INFO - 应用程序启动
+2025-09-13 19:12:24,649 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:12:24,655 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:13:19,449 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:13:19,457 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:14:06,008 - app.main - INFO - 应用程序关闭
+2025-09-13 19:14:06,401 - app.main - INFO - 应用程序启动
+2025-09-13 19:15:27,831 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:15:27,840 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:16:06,574 - app.main - INFO - 应用程序关闭
+2025-09-13 19:16:06,963 - app.main - INFO - 应用程序启动
+2025-09-13 19:18:14,488 - app.main - INFO - 应用程序关闭
+2025-09-13 19:18:14,874 - app.main - INFO - 应用程序启动
+2025-09-13 19:18:50,471 - app.main - INFO - 应用程序关闭
+2025-09-13 19:18:50,862 - app.main - INFO - 应用程序启动
+2025-09-13 19:19:08,799 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:19:08,805 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:19:49,037 - app.main - INFO - 应用程序关闭
+2025-09-13 19:19:49,428 - app.main - INFO - 应用程序启动
+2025-09-13 19:21:57,251 - app.main - INFO - 应用程序关闭
+2025-09-13 19:21:57,636 - app.main - INFO - 应用程序启动
+2025-09-13 19:22:10,315 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:22:10,322 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:22:46,663 - app.main - INFO - 应用程序关闭
+2025-09-13 19:22:47,041 - app.main - INFO - 应用程序启动
+2025-09-13 19:23:53,256 - app.main - INFO - 应用程序关闭
+2025-09-13 19:23:53,663 - app.main - INFO - 应用程序启动
+2025-09-13 19:23:56,995 - app.main - INFO - 应用程序关闭
+2025-09-13 19:23:57,385 - app.main - INFO - 应用程序启动
+2025-09-13 19:24:12,951 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:24:12,958 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:24:51,553 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:24:51,560 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:25:06,374 - app.main - INFO - 应用程序关闭
+2025-09-13 19:25:06,769 - app.main - INFO - 应用程序启动
+2025-09-13 19:26:42,465 - app.main - INFO - 应用程序关闭
+2025-09-13 19:26:42,852 - app.main - INFO - 应用程序启动
+2025-09-13 19:26:55,606 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:26:55,614 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:27:32,391 - app.main - INFO - 应用程序关闭
+2025-09-13 19:27:32,790 - app.main - INFO - 应用程序启动
+2025-09-13 19:28:13,728 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-13 19:28:13,738 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-13 19:29:19,011 - app.main - INFO - 应用程序关闭
+2025-09-13 19:29:19,403 - app.main - INFO - 应用程序启动
+2025-09-14 13:45:37,977 - app.main - INFO - 应用程序启动
+2025-09-14 13:46:00,926 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-14 13:46:00,944 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 13:46:56,317 - app.main - INFO - 应用程序关闭
+2025-09-14 13:46:56,763 - app.main - INFO - 应用程序启动
+2025-09-14 14:15:18,639 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-14 14:15:18,646 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 15:14:58,916 - app.main - INFO - 应用程序启动
+2025-09-14 15:15:21,463 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-14 15:15:21,476 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 15:38:16,514 - app.main - INFO - 应用程序启动
+2025-09-14 15:38:52,732 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-14 15:38:52,741 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 15:40:23,011 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-14 15:40:23,020 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 16:38:21,316 - app.main - INFO - 应用程序启动
+2025-09-14 17:03:27,027 - app.main - INFO - 应用程序启动
+2025-09-14 17:03:56,005 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-14 17:03:56,011 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:05:35,406 - app.main - INFO - 应用程序启动
+2025-09-14 17:12:15,433 - app.main - INFO - 应用程序启动
+2025-09-14 17:15:04,421 - app.main - INFO - 应用程序启动
+2025-09-14 17:16:52,062 - app.main - INFO - 应用程序启动
+2025-09-14 17:17:47,818 - app.main - INFO - 应用程序启动
+2025-09-14 17:23:12,174 - app.main - INFO - 应用程序启动
+2025-09-14 17:24:06,412 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-14 17:24:06,418 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:25:16,305 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-14 17:25:16,313 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:25:52,527 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:25:52,553 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:28:28,501 - app.main - INFO - 应用程序启动
+2025-09-14 17:28:54,905 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:28:54,927 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:32:49,539 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:32:49,559 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:35:17,444 - app.main - INFO - 应用程序关闭
+2025-09-14 17:35:17,847 - app.main - INFO - 应用程序启动
+2025-09-14 17:44:11,931 - app.main - INFO - 应用程序启动
+2025-09-14 17:44:36,782 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:44:36,801 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:46:45,179 - app.main - INFO - 应用程序关闭
+2025-09-14 17:46:45,576 - app.main - INFO - 应用程序启动
+2025-09-14 17:47:27,557 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:47:27,579 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:48:12,672 - app.main - INFO - 应用程序关闭
+2025-09-14 17:48:13,064 - app.main - INFO - 应用程序启动
+2025-09-14 17:52:28,952 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:52:28,972 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:52:34,872 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:52:34,894 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:52:50,728 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:52:50,750 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:52:56,021 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:52:56,043 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:53:47,803 - app.main - INFO - 应用程序启动
+2025-09-14 17:54:16,358 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:54:16,380 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:56:01,291 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:56:01,309 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 17:59:48,388 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 17:59:48,412 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 18:01:03,365 - app.main - INFO - 应用程序启动
+2025-09-14 18:01:29,476 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 18:01:29,497 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 18:02:18,776 - app.main - INFO - 应用程序关闭
+2025-09-14 18:02:19,172 - app.main - INFO - 应用程序启动
+2025-09-14 18:06:57,852 - app.main - INFO - 应用程序关闭
+2025-09-14 18:06:58,257 - app.main - INFO - 应用程序启动
+2025-09-14 18:07:22,657 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 18:07:22,677 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 18:07:59,579 - app.main - INFO - 应用程序关闭
+2025-09-14 18:07:59,966 - app.main - INFO - 应用程序启动
+2025-09-14 18:25:26,305 - app.main - INFO - 应用程序关闭
+2025-09-14 18:25:26,671 - app.main - INFO - 应用程序启动
+2025-09-14 18:25:42,858 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 18:25:42,880 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 18:26:21,733 - app.main - INFO - 应用程序关闭
+2025-09-14 18:26:22,115 - app.main - INFO - 应用程序启动
+2025-09-14 19:05:04,675 - app.main - INFO - 应用程序启动
+2025-09-14 19:05:30,557 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 19:05:30,578 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 19:06:18,231 - app.main - INFO - 应用程序关闭
+2025-09-14 19:06:18,615 - app.main - INFO - 应用程序启动
+2025-09-14 19:11:22,923 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 19:11:22,947 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 19:22:55,284 - app.main - INFO - 应用程序启动
+2025-09-14 19:23:22,354 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: bit_num=4 diff_uniform=6 linear_uniform=8 dbn=3 lbn=2 bibo_ddt=16 bibo_lat=16 quantity=1
+2025-09-14 19:23:22,354 - app.utils.sbox_utils - ERROR - S盒构造过程中发生错误: 'SBoxRequest' object has no attribute 'get'
+2025-09-14 19:23:30,675 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: bit_num=4 diff_uniform=6 linear_uniform=8 dbn=3 lbn=2 bibo_ddt=16 bibo_lat=16 quantity=1
+2025-09-14 19:23:30,675 - app.utils.sbox_utils - ERROR - S盒构造过程中发生错误: 'SBoxRequest' object has no attribute 'get'
+2025-09-14 19:30:16,423 - app.main - INFO - 应用程序关闭
+2025-09-14 19:30:16,896 - app.main - INFO - 应用程序启动
+2025-09-14 19:30:34,377 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-14 19:30:34,377 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-14 19:30:34,378 - app.utils.sbox_utils - ERROR - S盒构造过程中发生错误: S盒构造工具没有执行权限: /home/lys/projects/automated_design/backend/app/utils/sbox_construction
+2025-09-14 19:30:34,378 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 0 个S盒
+2025-09-14 19:30:44,285 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-14 19:30:44,285 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-14 19:30:44,285 - app.utils.sbox_utils - ERROR - S盒构造过程中发生错误: S盒构造工具没有执行权限: /home/lys/projects/automated_design/backend/app/utils/sbox_construction
+2025-09-14 19:30:44,285 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 0 个S盒
+2025-09-14 19:34:13,989 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-14 19:34:14,011 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-14 19:36:56,679 - app.main - INFO - 应用程序关闭
+2025-09-14 19:36:57,085 - app.main - INFO - 应用程序启动
+2025-09-14 19:38:44,268 - app.main - INFO - 应用程序关闭
+2025-09-14 19:38:44,650 - app.main - INFO - 应用程序启动
+2025-09-14 19:39:00,720 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-14 19:39:00,720 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-14 19:39:00,720 - app.utils.sbox_utils - ERROR - S盒构造过程中发生错误: S盒构造工具没有执行权限: /home/lys/projects/automated_design/backend/app/utils/sbox_construction
+2025-09-14 19:39:00,720 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 0 个S盒
+2025-09-14 19:40:59,027 - app.main - INFO - 应用程序启动
+2025-09-14 19:41:22,606 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-14 19:41:22,607 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-14 19:41:22,608 - app.utils.sbox_utils - ERROR - 启动S盒构造进程失败: [Errno 8] Exec format error: '/home/lys/projects/automated_design/backend/app/utils/sbox_construction'
+2025-09-14 19:41:22,608 - app.utils.sbox_utils - ERROR - S盒构造过程中发生错误: [Errno 8] Exec format error: '/home/lys/projects/automated_design/backend/app/utils/sbox_construction'
+2025-09-14 19:41:22,608 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 0 个S盒
+2025-09-15 09:10:57,697 - app.main - INFO - 应用程序启动
+2025-09-15 09:11:25,565 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 09:11:25,565 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 09:11:25,566 - app.utils.sbox_utils - ERROR - 启动S盒构造进程失败: [Errno 8] Exec format error: '/home/lys/projects/automated_design/backend/app/utils/sbox_construction'
+2025-09-15 09:11:25,566 - app.utils.sbox_utils - ERROR - S盒构造过程中发生错误: [Errno 8] Exec format error: '/home/lys/projects/automated_design/backend/app/utils/sbox_construction'
+2025-09-15 09:11:25,567 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 0 个S盒
+2025-09-15 09:20:47,128 - app.main - INFO - 应用程序启动
+2025-09-15 09:21:10,598 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 09:21:10,599 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 09:21:10,623 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 09:21:10,664 - app.utils.sbox_utils - ERROR - STP求解失败: Fatal Error: Cannot open temp/sbox_ezb42n.cvc
+STP Error: Cannot open temp/sbox_ezb42n.cvc
+
+2025-09-15 09:31:44,797 - app.main - INFO - 应用程序关闭
+2025-09-15 09:31:45,193 - app.main - INFO - 应用程序启动
+2025-09-15 09:37:50,392 - app.main - INFO - 应用程序启动
+2025-09-15 09:38:14,866 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-15 09:38:14,883 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 09:38:28,889 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 09:38:28,890 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 09:38:28,908 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 09:38:28,929 - app.utils.sbox_utils - ERROR - STP求解失败: Fatal Error: Cannot open /home/lys/projects/automated_design/backend/temp/sbox_x9cd3o.cvc
+STP Error: Cannot open /home/lys/projects/automated_design/backend/temp/sbox_x9cd3o.cvc
+
+2025-09-15 09:44:34,846 - app.main - INFO - 应用程序启动
+2025-09-15 09:44:53,229 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-15 09:44:53,241 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 09:50:11,245 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 09:50:11,245 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 09:50:11,255 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 09:50:11,274 - app.utils.sbox_utils - ERROR - STP求解失败: Fatal Error: Cannot open /home/lys/projects/automated_design/backend/temp/sbox_mrtgwl.cvc
+STP Error: Cannot open /home/lys/projects/automated_design/backend/temp/sbox_mrtgwl.cvc
+
+2025-09-15 09:58:53,085 - app.main - INFO - 应用程序启动
+2025-09-15 09:59:15,671 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 09:59:15,671 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 09:59:15,683 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 09:59:15,683 - app.utils.sbox_utils - ERROR - CVC 文件未生成: /home/lys/projects/automated_design/backend/temp/sbox_2ugjrd.cvc
+2025-09-15 10:14:13,920 - app.main - INFO - 应用程序启动
+2025-09-15 10:14:34,994 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 10:14:34,995 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 10:14:35,017 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 10:14:37,174 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 10:14:37,175 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 10:15:01,655 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 10:15:01,689 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 10:16:54,041 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 10:16:54,042 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 10:16:54,057 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 10:16:56,134 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 10:16:56,136 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 10:18:58,755 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 10:18:58,776 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 10:36:09,728 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 10:36:09,754 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 10:36:21,128 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 10:36:21,128 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 10:36:21,145 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 10:36:23,290 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 10:36:23,291 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 10:43:28,376 - app.main - INFO - 应用程序启动
+2025-09-15 10:43:51,159 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 10:43:51,193 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 10:44:03,933 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 10:44:03,934 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 10:44:03,953 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 10:44:06,047 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 10:44:06,048 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 10:52:24,656 - app.main - INFO - 应用程序关闭
+2025-09-15 10:52:25,053 - app.main - INFO - 应用程序启动
+2025-09-15 10:52:58,650 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 10:52:58,681 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 10:53:15,414 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 10:53:15,414 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 10:53:15,430 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 10:53:17,582 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 10:53:17,583 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:06:52,706 - app.main - INFO - 应用程序启动
+2025-09-15 11:07:14,307 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:07:14,339 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:07:31,271 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:07:31,271 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:07:31,285 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:07:33,411 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:07:33,412 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:13:40,412 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:13:40,437 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:13:52,978 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:13:52,979 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:13:52,992 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:13:55,127 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:13:55,128 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:15:58,641 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:15:58,668 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:16:11,208 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:16:11,209 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:16:11,225 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:16:13,402 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:16:13,403 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:18:32,999 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:18:33,032 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:18:45,313 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:18:45,313 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:18:45,332 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:18:47,420 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:18:47,421 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:26:05,094 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:26:05,122 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:26:17,361 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:26:17,361 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:26:17,376 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:26:19,514 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:26:19,515 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:33:57,053 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:33:57,079 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:34:11,910 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:34:11,911 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:34:11,926 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:34:14,064 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:34:14,065 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:37:11,845 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:37:11,875 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:37:25,093 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:37:25,093 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:37:25,109 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:37:27,285 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:37:27,286 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:39:41,166 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:39:41,198 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:39:54,828 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:39:54,828 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:39:54,845 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:39:56,938 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:39:56,939 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:43:25,053 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:43:25,081 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:43:36,086 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:43:36,086 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:43:36,101 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:43:38,263 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:43:38,264 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:48:37,106 - app.main - INFO - 应用程序启动
+2025-09-15 11:49:00,158 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:49:00,185 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:49:14,063 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:49:14,064 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:49:14,076 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:49:16,225 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:49:16,226 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 11:52:28,616 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 11:52:28,644 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 11:52:40,119 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 11:52:40,119 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 11:52:40,139 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 11:52:42,238 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 11:52:42,239 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 13:50:26,832 - app.main - INFO - 应用程序启动
+2025-09-15 13:50:55,018 - app.main - INFO - 应用程序启动
+2025-09-15 13:51:24,906 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 13:51:24,939 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 13:51:36,202 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 13:51:36,202 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 13:51:36,216 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 13:51:38,455 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 13:51:38,456 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 13:56:35,037 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 13:56:35,065 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 13:56:46,094 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 13:56:46,095 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 13:56:46,113 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 13:56:48,268 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 13:56:48,269 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 13:58:14,916 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 13:58:14,951 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 13:58:27,450 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 13:58:27,450 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 13:58:27,467 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 13:58:29,630 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 13:58:29,631 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 14:01:02,345 - app.main - INFO - 应用程序关闭
+2025-09-15 14:01:02,774 - app.main - INFO - 应用程序启动
+2025-09-15 14:01:30,193 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 14:01:30,228 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 14:01:40,428 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 14:01:40,428 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 14:01:40,447 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 14:01:42,613 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 14:01:42,614 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 14:05:31,251 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 14:05:31,283 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 14:05:41,443 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 14:05:41,443 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 14:05:41,461 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 14:05:43,590 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 14:05:43,592 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 14:08:19,434 - app.main - INFO - 应用程序关闭
+2025-09-15 14:08:19,812 - app.main - INFO - 应用程序启动
+2025-09-15 14:10:46,565 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 14:10:46,602 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 14:10:57,293 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 14:10:57,294 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 14:10:57,310 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 14:10:59,535 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 14:10:59,536 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 14:15:47,153 - app.main - INFO - 应用程序关闭
+2025-09-15 14:15:47,552 - app.main - INFO - 应用程序启动
+2025-09-15 14:16:02,404 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 14:16:02,430 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 14:16:15,712 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 14:16:15,712 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 14:16:15,728 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 14:16:17,845 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 14:16:17,846 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 14:18:18,835 - app.main - INFO - 应用程序关闭
+2025-09-15 14:18:19,230 - app.main - INFO - 应用程序启动
+2025-09-15 14:18:47,613 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 14:18:47,646 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 14:18:59,553 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 14:18:59,553 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 14:18:59,569 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 14:19:01,711 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 14:19:01,712 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 14:34:14,743 - app.main - INFO - 应用程序关闭
+2025-09-15 14:34:15,145 - app.main - INFO - 应用程序启动
+2025-09-15 14:35:06,223 - app.main - INFO - 应用程序启动
+2025-09-15 14:35:27,550 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 14:35:27,583 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 14:35:43,887 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 14:35:43,888 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 14:35:43,905 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 14:35:46,105 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 14:35:46,106 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 15:00:35,954 - app.main - INFO - 应用程序启动
+2025-09-15 15:00:58,940 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 15:00:58,970 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 15:01:10,901 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 15:01:10,901 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 15:01:10,920 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 15:01:13,193 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 15:01:13,194 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 15:09:36,597 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 15:09:36,629 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 15:09:49,266 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 15:09:49,266 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 15:09:49,285 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 15:09:51,459 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 15:09:51,460 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 15:23:33,783 - app.main - INFO - 应用程序关闭
+2025-09-15 15:29:44,961 - app.main - INFO - 应用程序启动
+2025-09-15 15:30:00,329 - app.main - INFO - 应用程序启动
+2025-09-15 15:30:25,059 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 15:30:25,087 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 15:30:35,877 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 15:30:35,878 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 15:30:35,892 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 15:30:38,136 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 15:30:38,137 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 15:40:23,394 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 15:40:23,422 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 15:40:35,752 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 15:40:35,753 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 15:40:35,774 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 15:40:37,908 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 15:40:37,909 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 15:53:04,409 - app.main - INFO - 应用程序启动
+2025-09-15 15:53:30,076 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 15:53:30,105 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 15:53:52,721 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 15:53:52,721 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 15:53:52,739 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 15:53:54,981 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 15:53:54,982 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 16:17:16,287 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 16:17:16,325 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 16:18:34,868 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 16:18:34,868 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 16:18:34,889 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 16:18:36,983 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 16:18:36,984 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 16:38:29,280 - app.main - INFO - 应用程序启动
+2025-09-15 16:38:57,612 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 16:38:57,632 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 16:39:10,518 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 16:39:10,518 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 16:39:10,537 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 16:39:12,687 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 16:39:12,688 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 16:41:55,013 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 16:41:55,036 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 16:42:18,256 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 16:42:18,256 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 16:42:18,268 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 16:42:20,337 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 16:42:20,338 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 16:44:27,766 - app.main - INFO - 应用程序关闭
+2025-09-15 16:44:28,185 - app.main - INFO - 应用程序启动
+2025-09-15 16:44:46,327 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 16:44:46,347 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 16:44:57,336 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 16:44:57,337 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 16:44:57,354 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 16:44:59,518 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 16:44:59,519 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 16:52:06,204 - app.main - INFO - 应用程序启动
+2025-09-15 16:52:29,620 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 16:52:29,641 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 16:53:24,440 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 16:53:24,462 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 16:53:35,730 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 16:53:35,730 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 16:53:35,747 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 16:53:37,928 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 16:53:37,929 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 16:56:44,625 - app.main - INFO - 应用程序启动
+2025-09-15 16:57:24,183 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 16:57:24,207 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 16:57:36,468 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 16:57:36,468 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 16:57:36,481 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 16:57:38,685 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 16:57:38,686 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 17:21:12,139 - app.main - INFO - 应用程序关闭
+2025-09-15 17:21:12,581 - app.main - INFO - 应用程序启动
+2025-09-15 17:21:32,770 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 17:21:32,792 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 17:21:45,735 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 17:21:45,735 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 17:21:45,749 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 17:21:47,926 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 17:21:47,927 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 17:24:59,990 - app.main - INFO - 应用程序关闭
+2025-09-15 17:25:00,391 - app.main - INFO - 应用程序启动
+2025-09-15 17:25:21,754 - app.main - INFO - 应用程序关闭
+2025-09-15 17:25:22,153 - app.main - INFO - 应用程序启动
+2025-09-15 17:25:41,095 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 17:25:41,115 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 17:25:53,688 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 17:25:53,688 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 17:25:53,702 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 17:25:55,841 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 17:25:55,841 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 17:29:18,438 - app.main - INFO - 应用程序关闭
+2025-09-15 17:29:18,833 - app.main - INFO - 应用程序启动
+2025-09-15 17:29:42,910 - app.main - INFO - 应用程序关闭
+2025-09-15 17:29:43,291 - app.main - INFO - 应用程序启动
+2025-09-15 17:57:02,516 - app.main - INFO - 应用程序关闭
+2025-09-15 17:57:02,988 - app.main - INFO - 应用程序启动
+2025-09-15 17:57:21,957 - app.main - INFO - 应用程序启动
+2025-09-15 17:57:46,825 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 17:57:46,848 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 17:58:00,405 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 17:58:00,406 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 17:58:00,420 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 17:58:02,604 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 17:58:02,605 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 18:02:22,378 - app.main - INFO - 应用程序关闭
+2025-09-15 18:02:22,780 - app.main - INFO - 应用程序启动
+2025-09-15 18:03:05,291 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 18:03:05,311 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 18:03:16,417 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 18:03:16,417 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 18:03:16,433 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 18:03:18,604 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 18:03:18,605 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 18:26:10,211 - app.main - INFO - 应用程序关闭
+2025-09-15 18:26:10,686 - app.main - INFO - 应用程序启动
+2025-09-15 18:29:07,541 - app.main - INFO - 应用程序启动
+2025-09-15 18:29:30,593 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 18:29:30,616 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 18:29:42,797 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 18:29:42,797 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 18:29:42,814 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 18:29:44,952 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 18:29:44,953 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 18:35:23,550 - app.main - INFO - 应用程序启动
+2025-09-15 18:35:47,812 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 18:35:47,832 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 18:35:59,219 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 18:35:59,219 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 18:35:59,231 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 18:36:01,442 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 18:36:01,443 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-15 19:00:53,089 - app.main - INFO - 应用程序启动
+2025-09-15 19:01:22,745 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-15 19:01:22,764 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-15 19:01:37,008 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-15 19:01:37,008 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-15 19:01:37,021 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-15 19:01:39,131 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-15 19:01:39,132 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 09:59:56,023 - app.main - INFO - 应用程序启动
+2025-09-16 10:02:52,526 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-16 10:02:52,577 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 10:03:08,195 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 10:03:08,195 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 10:03:08,230 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 10:03:11,010 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 10:03:11,011 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 10:14:29,375 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 10:14:29,384 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 10:14:42,761 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 10:14:42,761 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 10:14:42,796 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 10:14:45,047 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 10:14:45,048 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 10:18:29,249 - app.main - INFO - 应用程序关闭
+2025-09-16 10:18:29,708 - app.main - INFO - 应用程序启动
+2025-09-16 10:22:38,460 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 10:22:38,485 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 10:28:03,897 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 10:28:03,905 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 10:31:03,023 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 10:31:03,042 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 10:34:32,914 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 10:34:32,922 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 10:37:33,068 - app.main - INFO - 应用程序关闭
+2025-09-16 10:37:33,482 - app.main - INFO - 应用程序启动
+2025-09-16 10:37:48,545 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 10:37:48,571 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 10:58:41,368 - app.main - INFO - 应用程序关闭
+2025-09-16 10:58:41,866 - app.main - INFO - 应用程序启动
+2025-09-16 11:01:13,818 - app.main - INFO - 应用程序关闭
+2025-09-16 11:01:14,310 - app.main - INFO - 应用程序启动
+2025-09-16 11:01:53,026 - app.main - INFO - 应用程序关闭
+2025-09-16 11:01:53,472 - app.main - INFO - 应用程序启动
+2025-09-16 11:08:54,089 - app.main - INFO - 应用程序启动
+2025-09-16 11:09:19,296 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-16 11:09:19,323 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 11:09:29,912 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 11:09:29,912 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 11:09:29,938 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 11:09:32,457 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 11:09:32,459 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 11:15:42,508 - app.main - INFO - 应用程序关闭
+2025-09-16 11:15:42,966 - app.main - INFO - 应用程序启动
+2025-09-16 11:16:06,771 - app.main - INFO - 应用程序关闭
+2025-09-16 11:16:07,254 - app.main - INFO - 应用程序启动
+2025-09-16 11:16:34,557 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-16 11:16:34,594 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 11:16:46,708 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 11:16:46,708 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 11:16:46,734 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 11:16:49,115 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 11:16:49,117 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 11:20:58,044 - app.main - INFO - 应用程序关闭
+2025-09-16 11:20:58,578 - app.main - INFO - 应用程序启动
+2025-09-16 11:22:18,055 - app.main - INFO - 应用程序关闭
+2025-09-16 11:22:18,528 - app.main - INFO - 应用程序启动
+2025-09-16 11:22:36,949 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-16 11:22:37,000 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 11:22:48,444 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 11:22:48,444 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 11:22:48,477 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 11:22:50,829 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 11:22:50,830 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 11:23:24,738 - app.main - INFO - 应用程序关闭
+2025-09-16 11:23:25,273 - app.main - INFO - 应用程序启动
+2025-09-16 11:25:47,732 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 11:25:47,744 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 11:26:32,654 - app.main - INFO - 应用程序关闭
+2025-09-16 11:26:33,175 - app.main - INFO - 应用程序启动
+2025-09-16 11:28:06,390 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-16 11:28:06,422 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 11:28:19,697 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 11:28:19,698 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 11:28:19,728 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 11:28:22,318 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 11:28:22,319 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 11:28:48,139 - app.main - INFO - 应用程序关闭
+2025-09-16 11:28:48,602 - app.main - INFO - 应用程序启动
+2025-09-16 13:28:10,711 - app.main - INFO - 应用程序启动
+2025-09-16 13:28:38,750 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-16 13:28:38,776 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 13:28:51,546 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 13:28:51,547 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 13:28:51,576 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 13:28:54,050 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 13:28:54,051 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 13:31:15,381 - app.main - INFO - 应用程序启动
+2025-09-16 13:31:44,579 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 13:31:44,591 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 13:32:31,441 - app.main - INFO - 应用程序关闭
+2025-09-16 13:32:31,996 - app.main - INFO - 应用程序启动
+2025-09-16 13:38:55,786 - app.main - INFO - 应用程序关闭
+2025-09-16 13:38:56,359 - app.main - INFO - 应用程序启动
+2025-09-16 13:41:26,026 - app.main - INFO - 应用程序启动
+2025-09-16 13:41:58,124 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 13:41:58,136 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 13:42:15,778 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 13:42:15,778 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 13:42:15,803 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 13:42:18,413 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 13:42:18,414 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 13:43:10,957 - app.main - INFO - 应用程序关闭
+2025-09-16 13:43:11,446 - app.main - INFO - 应用程序启动
+2025-09-16 13:51:49,068 - app.main - INFO - 应用程序关闭
+2025-09-16 13:51:49,545 - app.main - INFO - 应用程序启动
+2025-09-16 13:52:07,798 - app.main - INFO - 应用程序关闭
+2025-09-16 13:52:08,220 - app.main - INFO - 应用程序启动
+2025-09-16 13:52:26,618 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 13:52:26,632 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 13:52:54,605 - app.main - INFO - 应用程序关闭
+2025-09-16 13:52:55,132 - app.main - INFO - 应用程序启动
+2025-09-16 13:55:10,263 - app.main - INFO - 应用程序关闭
+2025-09-16 13:55:10,698 - app.main - INFO - 应用程序启动
+2025-09-16 13:57:39,936 - app.main - INFO - 应用程序关闭
+2025-09-16 13:57:40,471 - app.main - INFO - 应用程序启动
+2025-09-16 13:58:46,113 - app.main - INFO - 应用程序关闭
+2025-09-16 13:58:46,509 - app.main - INFO - 应用程序启动
+2025-09-16 13:59:10,907 - app.main - INFO - 应用程序关闭
+2025-09-16 13:59:11,315 - app.main - INFO - 应用程序启动
+2025-09-16 14:07:32,208 - app.main - INFO - 应用程序关闭
+2025-09-16 14:07:32,642 - app.main - INFO - 应用程序启动
+2025-09-16 14:12:48,870 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 14:12:48,879 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 14:13:32,779 - app.main - INFO - 应用程序关闭
+2025-09-16 14:13:33,273 - app.main - INFO - 应用程序启动
+2025-09-16 14:14:07,016 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 14:14:07,016 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 14:14:07,052 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 14:14:09,495 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 14:14:09,496 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 14:14:40,277 - app.main - INFO - 应用程序关闭
+2025-09-16 14:14:40,774 - app.main - INFO - 应用程序启动
+2025-09-16 14:17:09,525 - app.main - INFO - 应用程序启动
+2025-09-16 14:19:45,641 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-16 14:19:45,689 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 14:23:14,605 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 14:23:14,614 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 14:23:51,129 - app.main - INFO - 应用程序关闭
+2025-09-16 14:23:51,626 - app.main - INFO - 应用程序启动
+2025-09-16 14:25:45,621 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 14:25:45,630 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 14:26:03,317 - app.main - INFO - 应用程序关闭
+2025-09-16 14:26:03,870 - app.main - INFO - 应用程序启动
+2025-09-16 14:30:48,357 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 14:30:48,373 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 14:31:26,207 - app.main - INFO - 应用程序关闭
+2025-09-16 14:31:26,768 - app.main - INFO - 应用程序启动
+2025-09-16 14:34:20,235 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 14:34:20,260 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 14:34:37,656 - app.main - INFO - 应用程序关闭
+2025-09-16 14:34:38,112 - app.main - INFO - 应用程序启动
+2025-09-16 14:35:53,093 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 14:35:53,112 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 14:36:09,723 - app.main - INFO - 应用程序关闭
+2025-09-16 14:36:10,171 - app.main - INFO - 应用程序启动
+2025-09-16 14:41:09,377 - app.main - INFO - 应用程序启动
+2025-09-16 14:41:31,119 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 14:41:31,119 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 14:41:31,142 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 14:41:33,521 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 14:41:33,522 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 14:42:08,338 - app.main - INFO - 应用程序关闭
+2025-09-16 14:42:08,785 - app.main - INFO - 应用程序启动
+2025-09-16 14:45:10,385 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 14:45:10,385 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 14:45:10,411 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 14:45:12,798 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 14:45:12,800 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 14:45:43,872 - app.main - INFO - 应用程序关闭
+2025-09-16 14:45:44,363 - app.main - INFO - 应用程序启动
+2025-09-16 15:02:10,760 - app.main - INFO - 应用程序启动
+2025-09-16 15:17:20,767 - app.main - INFO - 应用程序启动
+2025-09-16 15:38:45,022 - app.main - INFO - 应用程序启动
+2025-09-16 15:40:22,127 - app.main - INFO - 应用程序关闭
+2025-09-16 15:40:22,601 - app.main - INFO - 应用程序启动
+2025-09-16 15:40:57,693 - app.main - INFO - 应用程序关闭
+2025-09-16 15:46:59,528 - app.main - INFO - 应用程序启动
+2025-09-16 16:05:48,523 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 16:05:48,535 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 16:06:52,824 - app.main - INFO - 应用程序关闭
+2025-09-16 16:06:53,386 - app.main - INFO - 应用程序启动
+2025-09-16 16:12:13,753 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 16:12:13,762 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 16:12:50,199 - app.main - INFO - 应用程序关闭
+2025-09-16 16:12:50,837 - app.main - INFO - 应用程序启动
+2025-09-16 16:20:31,702 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 16:20:31,731 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 16:21:13,710 - app.main - INFO - 应用程序关闭
+2025-09-16 16:21:14,287 - app.main - INFO - 应用程序启动
+2025-09-16 17:21:58,041 - app.main - INFO - 应用程序启动
+2025-09-16 17:31:31,553 - app.main - INFO - 应用程序启动
+2025-09-16 17:31:51,261 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 17:31:51,262 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 17:31:51,276 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 17:31:53,428 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 17:31:53,429 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 17:32:33,407 - app.main - INFO - 应用程序关闭
+2025-09-16 17:32:33,841 - app.main - INFO - 应用程序启动
+2025-09-16 17:33:32,563 - app.main - INFO - 应用程序关闭
+2025-09-16 17:33:32,978 - app.main - INFO - 应用程序启动
+2025-09-16 17:39:29,418 - app.main - INFO - 应用程序关闭
+2025-09-16 17:39:29,905 - app.main - INFO - 应用程序启动
+2025-09-16 17:41:55,106 - app.main - INFO - 应用程序启动
+2025-09-16 17:42:19,581 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 17:42:19,581 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 17:42:19,597 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 17:42:21,742 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 17:42:21,743 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 17:42:50,848 - app.main - INFO - 应用程序关闭
+2025-09-16 17:42:51,299 - app.main - INFO - 应用程序启动
+2025-09-16 17:43:02,872 - app.main - INFO - 应用程序关闭
+2025-09-16 17:43:03,333 - app.main - INFO - 应用程序启动
+2025-09-16 17:43:13,598 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 17:43:13,598 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 17:43:13,613 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 17:43:15,763 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 17:43:15,764 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 17:43:31,905 - app.main - INFO - 应用程序关闭
+2025-09-16 17:43:31,927 - app.main - INFO - 应用程序关闭
+2025-09-16 17:43:32,347 - app.main - INFO - 应用程序启动
+2025-09-16 17:43:32,351 - app.main - INFO - 应用程序启动
+2025-09-16 17:44:26,258 - app.main - INFO - 应用程序启动
+2025-09-16 17:44:49,207 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 17:44:49,208 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 17:44:49,221 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 17:44:51,269 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 17:44:51,270 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 17:45:38,609 - app.main - INFO - 应用程序关闭
+2025-09-16 17:45:39,108 - app.main - INFO - 应用程序启动
+2025-09-16 17:46:15,943 - app.main - INFO - 应用程序启动
+2025-09-16 17:46:41,699 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 17:46:41,699 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 17:46:41,716 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 17:46:43,778 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 17:46:43,779 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 17:47:13,246 - app.main - INFO - 应用程序关闭
+2025-09-16 17:47:13,670 - app.main - INFO - 应用程序启动
+2025-09-16 17:48:15,277 - app.main - INFO - 应用程序关闭
+2025-09-16 17:48:15,693 - app.main - INFO - 应用程序启动
+2025-09-16 17:48:42,426 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 17:48:42,427 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 17:48:42,443 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 17:48:44,573 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 17:48:44,574 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 17:49:16,024 - app.main - INFO - 应用程序关闭
+2025-09-16 17:49:16,472 - app.main - INFO - 应用程序启动
+2025-09-16 17:51:10,349 - app.main - INFO - 应用程序启动
+2025-09-16 17:52:05,488 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 17:52:05,506 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 17:52:52,020 - app.main - INFO - 应用程序关闭
+2025-09-16 17:52:52,464 - app.main - INFO - 应用程序启动
+2025-09-16 17:54:49,346 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-16 17:54:49,355 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-16 17:55:00,469 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-16 17:55:00,469 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-16 17:55:00,490 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-16 17:55:02,635 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-16 17:55:02,636 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-16 17:55:24,521 - app.main - INFO - 应用程序关闭
+2025-09-16 17:55:24,984 - app.main - INFO - 应用程序启动
+2025-09-17 08:09:36,652 - app.main - INFO - 应用程序启动
+2025-09-17 08:10:00,142 - app.main - INFO - 应用程序启动
+2025-09-17 08:10:28,916 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 08:10:28,928 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 08:10:40,555 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 08:10:40,555 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 08:10:40,585 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 08:10:43,032 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 08:10:43,033 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 08:11:36,583 - app.main - INFO - 应用程序关闭
+2025-09-17 08:11:37,097 - app.main - INFO - 应用程序启动
+2025-09-17 08:20:40,396 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 08:20:40,404 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 08:20:52,400 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 08:20:52,400 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 08:20:52,428 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 08:20:54,788 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 08:20:54,790 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 08:21:50,757 - app.main - INFO - 应用程序关闭
+2025-09-17 08:21:51,346 - app.main - INFO - 应用程序启动
+2025-09-17 08:24:10,769 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 08:24:10,782 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 08:24:21,256 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 08:24:21,256 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 08:24:21,283 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 08:24:23,638 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 08:24:23,640 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 08:24:58,876 - app.main - INFO - 应用程序关闭
+2025-09-17 08:24:59,417 - app.main - INFO - 应用程序启动
+2025-09-17 09:35:45,150 - app.main - INFO - 应用程序启动
+2025-09-17 09:36:43,406 - app.main - INFO - 应用程序启动
+2025-09-17 09:38:11,042 - app.main - INFO - 应用程序启动
+2025-09-17 09:38:39,002 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 09:38:39,015 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 09:40:05,432 - app.main - INFO - 应用程序关闭
+2025-09-17 09:40:05,878 - app.main - INFO - 应用程序启动
+2025-09-17 09:50:27,764 - app.main - INFO - 应用程序启动
+2025-09-17 09:50:52,690 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 09:50:52,700 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 09:52:05,575 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 09:52:05,583 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 09:52:29,837 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 09:52:29,861 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 09:56:44,312 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 09:56:44,312 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 09:56:44,338 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 09:56:46,559 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 09:56:46,561 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 09:59:45,775 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 09:59:45,775 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 09:59:45,809 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 09:59:47,976 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 09:59:47,977 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 10:03:31,434 - app.main - INFO - 应用程序关闭
+2025-09-17 10:03:31,992 - app.main - INFO - 应用程序启动
+2025-09-17 10:06:48,842 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 10:06:48,857 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 10:07:00,927 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 10:07:00,928 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 10:07:00,949 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 10:07:02,909 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 10:07:02,910 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 10:16:42,390 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 10:16:42,412 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 10:16:54,954 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 10:16:54,954 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 10:16:54,985 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 10:16:57,051 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 10:16:57,052 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 10:57:02,201 - app.main - INFO - 应用程序启动
+2025-09-17 11:02:14,595 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 11:02:14,620 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 11:02:23,890 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 11:02:23,890 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 11:02:23,918 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 11:02:26,297 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 11:02:26,298 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 11:11:51,891 - app.main - INFO - 应用程序关闭
+2025-09-17 11:11:52,399 - app.main - INFO - 应用程序启动
+2025-09-17 11:23:55,706 - app.main - INFO - 应用程序启动
+2025-09-17 11:24:41,241 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 11:24:41,253 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 11:26:37,695 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 2}
+2025-09-17 11:26:37,695 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=2
+2025-09-17 11:26:37,725 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 11:26:40,030 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 11:26:41,482 - app.utils.sbox_utils - INFO - 成功构造第2个S盒
+2025-09-17 11:26:41,484 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 2 个S盒
+2025-09-17 11:29:45,901 - app.main - INFO - 应用程序启动
+2025-09-17 11:30:08,492 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-17 11:30:08,504 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-17 11:30:18,273 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 11:30:18,274 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 11:30:18,321 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 11:30:20,639 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 11:30:20,640 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 11:30:55,433 - app.main - INFO - 应用程序关闭
+2025-09-17 11:30:55,933 - app.main - INFO - 应用程序启动
+2025-09-17 13:37:05,800 - app.main - INFO - 应用程序启动
+2025-09-17 13:39:03,771 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-17 13:39:03,771 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-17 13:39:03,804 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-17 13:39:06,109 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-17 13:39:06,111 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-17 13:40:04,953 - app.main - INFO - 应用程序关闭
+2025-09-17 13:40:05,523 - app.main - INFO - 应用程序启动
+2025-09-17 13:41:29,322 - app.main - INFO - 应用程序关闭
+2025-09-17 13:41:29,823 - app.main - INFO - 应用程序启动
+2025-09-17 13:45:44,902 - app.main - INFO - 应用程序启动
+2025-09-17 13:48:19,115 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=100, xor_count=-1, quantity=1
+2025-09-17 13:48:19,162 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 0 个结果
+2025-09-17 16:55:45,163 - app.main - INFO - 应用程序启动
+2025-09-17 18:04:35,896 - app.main - INFO - 应用程序关闭
+2025-09-17 18:04:36,306 - app.main - INFO - 应用程序启动
+2025-09-17 18:05:39,310 - app.main - INFO - 应用程序关闭
+2025-09-17 18:41:46,112 - app.main - INFO - 应用程序启动
+2025-09-17 21:09:25,286 - app.main - INFO - 应用程序启动
+2025-09-18 09:17:00,322 - app.main - INFO - 应用程序启动
+2025-09-18 09:17:34,917 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 09:17:34,936 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 09:17:47,952 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 09:17:47,953 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 09:17:47,979 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 09:17:49,951 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 09:17:49,952 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 09:18:45,520 - app.main - INFO - 应用程序关闭
+2025-09-18 09:18:45,950 - app.main - INFO - 应用程序启动
+2025-09-18 09:28:09,577 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 09:28:09,577 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 09:28:09,589 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 09:28:11,644 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 09:28:11,645 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 09:28:43,840 - app.main - INFO - 应用程序关闭
+2025-09-18 09:28:44,284 - app.main - INFO - 应用程序启动
+2025-09-18 09:32:07,538 - app.main - INFO - 应用程序关闭
+2025-09-18 09:32:07,945 - app.main - INFO - 应用程序启动
+2025-09-18 09:32:12,888 - app.main - INFO - 应用程序关闭
+2025-09-18 09:32:13,302 - app.main - INFO - 应用程序启动
+2025-09-18 09:32:42,558 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 09:32:42,558 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 09:32:42,575 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 09:32:44,714 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 09:32:44,715 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 09:33:13,470 - app.main - INFO - 应用程序关闭
+2025-09-18 09:33:13,912 - app.main - INFO - 应用程序启动
+2025-09-18 09:33:38,174 - app.main - INFO - 应用程序关闭
+2025-09-18 09:33:38,591 - app.main - INFO - 应用程序启动
+2025-09-18 09:35:46,045 - app.main - INFO - 应用程序启动
+2025-09-18 09:36:11,928 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 09:36:11,929 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 09:36:11,944 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 09:36:14,005 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 09:36:14,006 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 09:36:46,599 - app.main - INFO - 应用程序关闭
+2025-09-18 09:36:47,045 - app.main - INFO - 应用程序启动
+2025-09-18 09:37:55,128 - app.main - INFO - 应用程序关闭
+2025-09-18 09:37:55,568 - app.main - INFO - 应用程序启动
+2025-09-18 09:38:20,293 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 09:38:20,305 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 09:38:33,520 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 09:38:33,521 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 09:38:33,538 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 09:38:35,632 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 09:38:35,633 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 09:44:21,311 - app.main - INFO - 应用程序启动
+2025-09-18 09:44:52,059 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 09:44:52,059 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 09:44:52,072 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 09:44:54,199 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 09:44:54,200 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 09:45:26,392 - app.main - INFO - 应用程序关闭
+2025-09-18 09:45:26,858 - app.main - INFO - 应用程序启动
+2025-09-18 09:47:35,249 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 09:47:35,249 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 09:47:35,268 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 09:47:37,255 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 09:47:37,255 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 09:48:25,979 - app.main - INFO - 应用程序关闭
+2025-09-18 09:48:26,410 - app.main - INFO - 应用程序启动
+2025-09-18 09:49:17,493 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 09:49:17,503 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 09:49:28,110 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 09:49:28,110 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 09:49:28,122 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 09:49:30,145 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 09:49:30,146 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 09:50:18,979 - app.main - INFO - 应用程序关闭
+2025-09-18 10:01:10,654 - app.main - INFO - 应用程序启动
+2025-09-18 10:01:44,541 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 10:01:44,552 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 10:02:15,126 - app.main - INFO - 应用程序关闭
+2025-09-18 10:02:15,566 - app.main - INFO - 应用程序启动
+2025-09-18 10:07:18,072 - app.main - INFO - 应用程序关闭
+2025-09-18 10:07:18,492 - app.main - INFO - 应用程序启动
+2025-09-18 10:09:19,113 - app.main - INFO - 应用程序关闭
+2025-09-18 10:09:19,541 - app.main - INFO - 应用程序启动
+2025-09-18 10:10:13,485 - app.main - INFO - 应用程序关闭
+2025-09-18 10:10:13,891 - app.main - INFO - 应用程序启动
+2025-09-18 10:10:18,532 - app.main - INFO - 应用程序关闭
+2025-09-18 10:10:18,932 - app.main - INFO - 应用程序启动
+2025-09-18 10:10:52,557 - app.main - INFO - 应用程序启动
+2025-09-18 10:11:22,474 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 10:11:22,480 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 10:11:58,161 - app.main - INFO - 应用程序关闭
+2025-09-18 10:11:58,574 - app.main - INFO - 应用程序启动
+2025-09-18 10:12:41,622 - app.main - INFO - 应用程序启动
+2025-09-18 10:13:13,514 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:13:13,514 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:13:13,527 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:13:15,616 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:13:15,617 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:13:48,401 - app.main - INFO - 应用程序关闭
+2025-09-18 10:13:48,908 - app.main - INFO - 应用程序启动
+2025-09-18 10:14:55,743 - app.main - INFO - 应用程序启动
+2025-09-18 10:15:17,458 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:15:17,459 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:15:17,472 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:15:19,498 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:15:19,498 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:15:57,705 - app.main - INFO - 应用程序关闭
+2025-09-18 10:15:58,110 - app.main - INFO - 应用程序启动
+2025-09-18 10:16:08,006 - app.main - INFO - 应用程序关闭
+2025-09-18 10:16:08,425 - app.main - INFO - 应用程序启动
+2025-09-18 10:16:49,034 - app.main - INFO - 应用程序启动
+2025-09-18 10:17:08,545 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 10:17:08,554 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 10:17:20,434 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:17:20,434 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:17:20,445 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:17:22,496 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:17:22,497 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:17:47,311 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 10:17:47,317 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 10:17:57,929 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:17:57,929 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:17:57,943 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:17:59,975 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:17:59,975 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:18:34,982 - app.main - INFO - 应用程序关闭
+2025-09-18 10:18:35,378 - app.main - INFO - 应用程序启动
+2025-09-18 10:19:10,701 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 10:19:10,707 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 10:19:48,081 - app.main - INFO - 应用程序关闭
+2025-09-18 10:19:48,492 - app.main - INFO - 应用程序启动
+2025-09-18 10:21:35,826 - app.main - INFO - 应用程序启动
+2025-09-18 10:21:56,383 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 10:21:56,388 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 10:22:07,617 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:22:07,617 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:22:07,630 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:22:09,715 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:22:09,715 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:22:39,310 - app.main - INFO - 应用程序关闭
+2025-09-18 10:22:39,734 - app.main - INFO - 应用程序启动
+2025-09-18 10:29:00,615 - app.main - INFO - 应用程序启动
+2025-09-18 10:29:53,183 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 10:29:53,194 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 10:30:32,427 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:30:32,427 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:30:32,450 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:30:34,522 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:30:34,523 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:34:11,851 - app.main - INFO - 应用程序启动
+2025-09-18 10:34:32,157 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:34:32,157 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:34:32,174 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:34:34,295 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:34:34,296 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:35:18,470 - app.main - INFO - 应用程序关闭
+2025-09-18 10:35:18,899 - app.main - INFO - 应用程序启动
+2025-09-18 10:35:41,589 - app.main - INFO - 应用程序关闭
+2025-09-18 10:35:41,989 - app.main - INFO - 应用程序启动
+2025-09-18 10:35:51,721 - app.main - INFO - 应用程序关闭
+2025-09-18 10:35:52,133 - app.main - INFO - 应用程序启动
+2025-09-18 10:36:19,769 - app.main - INFO - 应用程序启动
+2025-09-18 10:36:41,038 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:36:41,039 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:36:41,056 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:36:43,189 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:36:43,190 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:37:20,073 - app.main - INFO - 应用程序关闭
+2025-09-18 10:37:20,526 - app.main - INFO - 应用程序启动
+2025-09-18 10:38:53,864 - app.main - INFO - 应用程序启动
+2025-09-18 10:39:12,819 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:39:12,819 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:39:12,834 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:39:14,833 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:39:14,834 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:39:48,635 - app.main - INFO - 应用程序关闭
+2025-09-18 10:39:49,058 - app.main - INFO - 应用程序启动
+2025-09-18 10:51:08,341 - app.main - INFO - 应用程序启动
+2025-09-18 10:51:28,341 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 10:51:28,342 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 10:51:28,359 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 10:51:30,490 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 10:51:30,491 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 10:52:00,161 - app.main - INFO - 应用程序关闭
+2025-09-18 10:52:00,627 - app.main - INFO - 应用程序启动
+2025-09-18 11:11:42,380 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=32, bit_size=8, dr=20, xor_count=200, quantity=1
+2025-09-18 11:11:42,415 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 11:11:54,618 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 11:11:54,618 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 11:11:54,630 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 11:11:56,778 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 11:11:56,779 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 11:13:10,729 - app.main - INFO - 应用程序启动
+2025-09-18 11:13:36,085 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 11:13:36,099 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 11:13:52,652 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 11:13:52,653 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 11:13:52,669 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 11:13:54,761 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 11:13:54,762 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 11:14:05,059 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 11:14:05,059 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 11:14:05,076 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 11:14:07,194 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 11:14:07,195 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 11:14:38,940 - app.main - INFO - 应用程序关闭
+2025-09-18 11:14:39,383 - app.main - INFO - 应用程序启动
+2025-09-18 11:16:45,636 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 11:16:45,645 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 11:19:00,161 - app.main - INFO - 应用程序启动
+2025-09-18 11:19:18,515 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 11:19:18,515 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 11:19:18,535 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 11:19:20,534 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 11:19:20,536 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 11:19:46,031 - app.main - INFO - 应用程序关闭
+2025-09-18 11:19:46,487 - app.main - INFO - 应用程序启动
+2025-09-18 11:20:05,754 - app.main - INFO - 应用程序关闭
+2025-09-18 11:20:06,149 - app.main - INFO - 应用程序启动
+2025-09-18 11:20:22,708 - app.main - INFO - 应用程序关闭
+2025-09-18 11:20:23,114 - app.main - INFO - 应用程序启动
+2025-09-18 11:20:37,288 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 11:20:37,302 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 11:20:47,356 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 11:20:47,357 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 11:20:47,371 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 11:20:49,506 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 11:20:49,507 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 11:21:24,345 - app.main - INFO - 应用程序关闭
+2025-09-18 11:21:24,804 - app.main - INFO - 应用程序启动
+2025-09-18 11:22:18,480 - app.main - INFO - 应用程序关闭
+2025-09-18 11:22:18,891 - app.main - INFO - 应用程序启动
+2025-09-18 15:52:19,752 - app.main - INFO - 应用程序启动
+2025-09-18 16:07:31,861 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 16:07:31,861 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 16:07:31,879 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 16:07:33,994 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 16:07:33,995 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 16:08:09,449 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 2}
+2025-09-18 16:08:09,449 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=2
+2025-09-18 16:08:09,460 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 16:08:11,525 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 16:08:12,680 - app.utils.sbox_utils - INFO - 成功构造第2个S盒
+2025-09-18 16:08:12,681 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 2 个S盒
+2025-09-18 16:09:43,310 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 16:09:43,318 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 16:15:37,954 - app.main - INFO - 应用程序关闭
+2025-09-18 16:15:38,432 - app.main - INFO - 应用程序启动
+2025-09-18 16:19:32,068 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 16:19:32,075 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 16:19:48,224 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 16:19:48,232 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 16:19:54,699 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-18 16:19:54,704 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-18 16:22:21,597 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-18 16:22:21,598 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-18 16:22:21,615 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 16:22:23,686 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 16:22:23,687 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 17:11:41,021 - app.main - INFO - 应用程序启动
+2025-09-18 17:12:03,493 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=2
+2025-09-18 17:12:03,515 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 2 个结果
+2025-09-18 17:12:19,946 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=2
+2025-09-18 17:12:19,963 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 2 个结果
+2025-09-18 17:14:35,689 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 2}
+2025-09-18 17:14:35,690 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=2
+2025-09-18 17:14:35,705 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 17:14:37,793 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 17:14:38,633 - app.utils.sbox_utils - WARNING - 第2个S盒构造失败 (验证有效)
+2025-09-18 17:14:38,634 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-18 17:15:01,248 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 2}
+2025-09-18 17:15:01,248 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=2
+2025-09-18 17:15:01,261 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 17:15:03,436 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 17:15:04,746 - app.utils.sbox_utils - INFO - 成功构造第2个S盒
+2025-09-18 17:15:04,748 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 2 个S盒
+2025-09-18 18:34:22,695 - app.main - INFO - 应用程序启动
+2025-09-18 18:34:55,246 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 4, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 4, 'bibo_lat': 8, 'quantity': 1}
+2025-09-18 18:34:55,247 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=4, quantity=1
+2025-09-18 18:34:55,265 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-18 18:34:56,574 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-18 18:34:56,575 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 10:05:15,765 - app.main - INFO - 应用程序启动
+2025-09-19 10:05:36,082 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 10:05:36,105 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 10:05:50,401 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 10:05:50,401 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 10:05:50,435 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 10:05:53,093 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 10:05:53,095 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 10:07:42,205 - app.main - INFO - 应用程序关闭
+2025-09-19 10:07:42,751 - app.main - INFO - 应用程序启动
+2025-09-19 10:08:40,003 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 10:08:40,015 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 10:08:50,637 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 10:08:50,637 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 10:08:50,670 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 10:08:52,968 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 10:08:52,969 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 10:09:22,775 - app.main - INFO - 应用程序关闭
+2025-09-19 10:09:23,295 - app.main - INFO - 应用程序启动
+2025-09-19 10:10:27,435 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 10:10:27,446 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 10:10:39,293 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 10:10:39,293 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 10:10:39,318 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 10:10:41,484 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 10:10:41,487 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 10:11:15,546 - app.main - INFO - 应用程序关闭
+2025-09-19 10:11:16,077 - app.main - INFO - 应用程序启动
+2025-09-19 10:12:13,566 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 10:12:13,591 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 10:12:25,716 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 10:12:25,717 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 10:12:25,752 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 10:12:28,129 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 10:12:28,130 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 10:13:18,116 - app.main - INFO - 应用程序关闭
+2025-09-19 10:13:18,659 - app.main - INFO - 应用程序启动
+2025-09-19 10:14:06,209 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 10:14:06,210 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 10:14:06,235 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 10:14:08,772 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 10:14:08,773 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 10:14:42,343 - app.main - INFO - 应用程序关闭
+2025-09-19 10:14:42,993 - app.main - INFO - 应用程序启动
+2025-09-19 10:15:22,664 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 10:15:22,664 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 10:15:22,687 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 10:15:25,074 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 10:15:25,075 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 10:15:53,363 - app.main - INFO - 应用程序关闭
+2025-09-19 10:15:53,962 - app.main - INFO - 应用程序启动
+2025-09-19 10:18:42,492 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 10:18:42,515 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 10:18:54,190 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 10:18:54,190 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 10:18:54,216 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 10:18:56,609 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 10:18:56,610 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 10:22:30,094 - app.main - INFO - 应用程序关闭
+2025-09-19 10:22:30,786 - app.main - INFO - 应用程序启动
+2025-09-19 10:53:18,350 - app.main - INFO - 应用程序启动
+2025-09-19 10:54:01,581 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 10:54:01,590 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 10:54:13,740 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 10:54:13,740 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 10:54:13,770 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 10:54:16,030 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 10:54:16,032 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 10:54:53,621 - app.main - INFO - 应用程序关闭
+2025-09-19 10:54:54,190 - app.main - INFO - 应用程序启动
+2025-09-19 10:58:52,018 - app.main - INFO - 应用程序关闭
+2025-09-19 10:58:52,514 - app.main - INFO - 应用程序启动
+2025-09-19 11:40:11,497 - app.main - INFO - 应用程序启动
+2025-09-19 11:40:39,839 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 11:40:39,848 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 11:40:49,794 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 11:40:49,795 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 11:40:49,816 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 11:40:52,037 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 11:40:52,038 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 11:41:23,301 - app.main - INFO - 应用程序关闭
+2025-09-19 11:41:23,743 - app.main - INFO - 应用程序启动
+2025-09-19 11:43:17,476 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 11:43:17,487 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 11:43:37,399 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 11:43:37,399 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 11:43:37,418 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 11:43:39,505 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 11:43:39,506 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 11:44:03,796 - app.main - INFO - 应用程序关闭
+2025-09-19 11:44:04,273 - app.main - INFO - 应用程序启动
+2025-09-19 11:44:31,128 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 11:44:31,142 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 11:44:40,237 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 11:44:40,237 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 11:44:40,252 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 11:44:42,324 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 11:44:42,325 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 11:45:14,149 - app.main - INFO - 应用程序关闭
+2025-09-19 11:45:14,608 - app.main - INFO - 应用程序启动
+2025-09-19 11:45:47,692 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 11:45:47,700 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 11:45:58,754 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 11:45:58,754 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 11:45:58,774 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 11:46:00,896 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 11:46:00,897 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 11:46:30,128 - app.main - INFO - 应用程序关闭
+2025-09-19 11:46:30,557 - app.main - INFO - 应用程序启动
+2025-09-19 11:47:02,555 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 11:47:02,566 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 11:47:13,202 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 11:47:13,202 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 11:47:13,216 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 11:47:15,281 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 11:47:15,282 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 11:48:01,191 - app.main - INFO - 应用程序关闭
+2025-09-19 11:48:01,644 - app.main - INFO - 应用程序启动
+2025-09-19 12:54:00,047 - app.main - INFO - 应用程序启动
+2025-09-19 12:54:38,014 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 12:54:38,026 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 12:55:15,545 - app.main - INFO - 应用程序关闭
+2025-09-19 12:55:15,993 - app.main - INFO - 应用程序启动
+2025-09-19 12:59:05,271 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 12:59:05,290 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 12:59:15,674 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 12:59:15,674 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 12:59:15,692 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 12:59:17,792 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 12:59:17,793 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 12:59:50,215 - app.main - INFO - 应用程序关闭
+2025-09-19 12:59:50,688 - app.main - INFO - 应用程序启动
+2025-09-19 13:00:11,872 - app.main - INFO - 应用程序关闭
+2025-09-19 13:00:12,314 - app.main - INFO - 应用程序启动
+2025-09-19 13:00:32,770 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 13:00:32,779 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 13:00:43,174 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 13:00:43,174 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 13:00:43,190 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 13:00:45,324 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 13:00:45,325 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 13:01:07,025 - app.main - INFO - 应用程序关闭
+2025-09-19 13:01:07,487 - app.main - INFO - 应用程序启动
+2025-09-19 13:01:34,098 - app.main - INFO - 应用程序启动
+2025-09-19 13:01:53,102 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 13:01:53,115 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 13:02:02,399 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 13:02:02,399 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 13:02:02,417 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 13:02:04,444 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 13:02:04,445 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 13:02:37,229 - app.main - INFO - 应用程序关闭
+2025-09-19 13:02:37,667 - app.main - INFO - 应用程序启动
+2025-09-19 13:03:15,510 - app.main - INFO - 应用程序关闭
+2025-09-19 13:03:15,965 - app.main - INFO - 应用程序启动
+2025-09-19 13:03:46,574 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 13:03:46,582 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 13:03:57,792 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 13:03:57,792 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 13:03:57,807 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 13:03:59,946 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 13:03:59,947 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 13:04:30,216 - app.main - INFO - 应用程序关闭
+2025-09-19 13:04:30,679 - app.main - INFO - 应用程序启动
+2025-09-19 14:46:43,799 - app.main - INFO - 应用程序启动
+2025-09-19 14:47:09,859 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 14:47:09,860 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 14:47:09,885 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 14:47:12,509 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 14:47:12,511 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 17:53:54,617 - app.main - INFO - 应用程序启动
+2025-09-19 17:54:35,294 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 17:54:35,294 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 17:54:35,308 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 17:54:37,381 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 17:54:37,381 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 17:55:24,379 - app.main - INFO - 应用程序关闭
+2025-09-19 17:55:24,822 - app.main - INFO - 应用程序启动
+2025-09-19 18:04:23,822 - app.main - INFO - 应用程序启动
+2025-09-19 18:04:46,519 - app.utils.block_matrix_utils - INFO - 开始构造分块矩阵: block_size=16, bit_size=4, dr=10, xor_count=100, quantity=1
+2025-09-19 18:04:46,526 - app.utils.block_matrix_utils - INFO - 分块矩阵构造完成，找到 1 个结果
+2025-09-19 18:04:57,641 - app.utils.sbox_utils - INFO - 接收到S盒构造参数: {'bit_num': 4, 'diff_uniform': 6, 'linear_uniform': 8, 'dbn': 3, 'lbn': 2, 'bibo_ddt': 16, 'bibo_lat': 16, 'quantity': 1}
+2025-09-19 18:04:57,641 - app.utils.sbox_utils - INFO - 开始构造S盒: bit_num=4, diff_uniform=6, quantity=1
+2025-09-19 18:04:57,662 - app.utils.sbox_utils - INFO - S盒CVC文件构造完成
+2025-09-19 18:04:59,664 - app.utils.sbox_utils - INFO - 成功构造第1个S盒
+2025-09-19 18:04:59,664 - app.utils.sbox_utils - INFO - S盒构造完成，共生成 1 个S盒
+2025-09-19 18:05:29,626 - app.main - INFO - 应用程序关闭
+2025-09-19 18:05:30,062 - app.main - INFO - 应用程序启动
